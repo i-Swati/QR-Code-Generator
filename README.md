@@ -10,6 +10,9 @@ A simple QR code generator project written in HTML and CSS. This project allows 
 
 ## Features
 >😄 Generate QR codes effortlessly!
+
 >🌐 Works with both text and URLs!
+
 >🚀 Super fast QR code generation!
+
 >🔗 Share and distribute QR codes easily!
